@@ -12,3 +12,6 @@ MongoDB Atlas supports various cloud providers such as AWS, Google Cloud, and Az
 It offers a free tier with certain limitations and paid plans with various configurations based on your database needs.
 MongoDB Atlas simplifies database management tasks like provisioning, scaling, and security, making it easier to work with MongoDB in a cloud environment.
 In summary, MongoDB Compass is a GUI tool for interacting with MongoDB databases, while MongoDB Atlas is a cloud-based database service for hosting and managing MongoDB databases. Both tools can be used together to facilitate database development and management tasks.
+
+
+Regards, Abhishek Kumar.
